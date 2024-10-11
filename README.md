@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![Thamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-![Thamer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=tokyonight&layout=compact)
-![Thamer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+![Thamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tghurair&show_icons=true&theme=tokyonight)
+![Thamer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tghurair&theme=tokyonight&layout=compact)
+![Thamer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tghurair&theme=tokyonight)
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tghurair&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
