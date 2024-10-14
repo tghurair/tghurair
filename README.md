@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats
 
 ![Thamer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tghurair&theme=tokyonight)
-![Thamer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tghurair&theme=tokyonight&layout=compact)
+
 
 
 ---
