@@ -7,17 +7,17 @@
 ---
 
 ### 🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
+[![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)](https://langchain.readthedocs.io/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ---
 
