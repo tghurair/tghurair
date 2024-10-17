@@ -14,7 +14,8 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
-[![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)]([https://langchain.readthedocs.io/](https://python.langchain.com/docs/introduction/)
+[![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)](https://python.langchain.com/docs/introduction/)
+
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
